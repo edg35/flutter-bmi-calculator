@@ -18,3 +18,23 @@ const kNumberTextStyle = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.w900,
 );
+
+const kResultTitleText = TextStyle(
+    fontSize: 50,
+    fontWeight: FontWeight.bold
+);
+
+const kResultText = TextStyle(
+  color: Color(0xFF24D876),
+  fontSize: 22,
+  fontWeight: FontWeight.bold,
+);
+
+const kBmiResultTextStyle = TextStyle(
+  fontSize: 100,
+  fontWeight: FontWeight.bold,
+);
+
+const kInterpTextStyle = TextStyle(
+    fontSize: 22.0
+);
